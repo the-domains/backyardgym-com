@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Back Yard Gym - Transform Yourself!]]></title>
+        <description><![CDATA[Back Yard Gym - Transform Yourself!]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 22 Nov 2015 02:27:29 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>This is post two.  How do I add images to this site?</p>]]></description>
+            <link>undefined3376370a-db63-4b4b-bd86-3c38a55ac5f1/index.html</link>
+            <guid isPermaLink="false">3376370a-db63-4b4b-bd86-3c38a55ac5f1</guid>
+            <pubDate>Sun, 22 Nov 2015 02:27:29 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
